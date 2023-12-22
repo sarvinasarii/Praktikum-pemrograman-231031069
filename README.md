@@ -13,6 +13,6 @@
 * Praktikum 8 : Tebak Warna praktiukm-c8.py
 * praktikum 9 : Tebak Angka praktikum-c9.py
 * Praktikum 10 : Pengenalan Difinisi Function praktikum-c10.py
-* Praktikum 11 : Menghitung Faktorial Menggunakan Def praktiukm-c11.py
-* Praktikum 12 : Pengenalan Range praktikum-c12.py
-* Praktikum 13 : Pengenalan Rekursif Fibonacci Menggunakan Def praktiukm-c13.py
+* Praktikum 11 : Menghitung Faktorial Menggunakan Def 231031069-sarvina sari-c11.py
+* Praktikum 12 : Pengenalan Range 231031069-sarvina sari-c12.py
+* Praktikum 13 : Pengenalan Rekursif Fibonacci Menggunakan Def 231031069-sarvina sari-c13.py
